@@ -27,7 +27,7 @@ function Signup() {
 
     try {
       const response = await fetch(
-        "https://jwtrolebasedauth-dnqz6urc.b4a.run/api/signup",
+        "https://jwtrolebasedauth-t3kb91c6.b4a.run/api/signup",
         {
           method: "POST",
           headers: {
